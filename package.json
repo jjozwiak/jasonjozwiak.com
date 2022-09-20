@@ -1,0 +1,25 @@
+{
+  "name": "jasonjozwiak.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjozwiak/jasonjozwiak.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjozwiak/jasonjozwiak.com/issues"
+  },
+  "homepage": "https://github.com/jjozwiak/jasonjozwiak.com#readme",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
