@@ -1,25 +1,13 @@
 {
-  "name": "jasonjozwiak.com",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "start": "nuxt start"
+    "preview": "nuxt preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jjozwiak/jasonjozwiak.com.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jjozwiak/jasonjozwiak.com/issues"
-  },
-  "homepage": "https://github.com/jjozwiak/jasonjozwiak.com#readme",
-  "dependencies": {
-    "nuxt": "^2.15.8"
+  "devDependencies": {
+    "@nuxt/content": "^2.1.0",
+    "nuxt": "^3.0.0-rc.10"
   }
 }
