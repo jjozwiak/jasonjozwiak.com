@@ -56,7 +56,7 @@ artifacts:
     # - location
   name: $(date +%Y-%m-%d)
   discard-paths: no
-  base-directory: dist
+  base-directory: .output/public
 #cache:
   #paths:
     # - paths
