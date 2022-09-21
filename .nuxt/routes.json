@@ -1,9 +1,14 @@
 [
   {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/jason/Documents/Sites/jasonjozwiak.com/pages/about/index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/jason/Documents/Sites/jasonjozwiak.com/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_762cbb07"
+    "chunkName": "pages/index"
   }
 ]
